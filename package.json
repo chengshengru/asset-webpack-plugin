@@ -1,0 +1,25 @@
+{
+  "name": "asset-webpack-plugin",
+  "version": "1.0.0",
+  "description": "asset-webpack-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengshengru/asset-webpack-plugin.git"
+  },
+  "keywords": [
+    "asset-webpack-plugin"
+  ],
+  "author": "chengshengru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengshengru/asset-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/chengshengru/asset-webpack-plugin#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
