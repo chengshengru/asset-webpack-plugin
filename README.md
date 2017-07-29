@@ -15,7 +15,7 @@ module.export = {
 	plugins: [
 		new AssetWebpackPlugin({
 			path:'',
-			filename,
+			filename:'',
 			fn:function(compilation, cb){
 				cb(null,function(compilation){
 					//do something				
