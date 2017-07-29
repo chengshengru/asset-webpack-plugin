@@ -1,8 +1,3 @@
-# Asset-Webpack-Plugin
-
-
-```javascript
-
 var webpack = require('webpack');
 var AssetWebpackPlugin = require('./asset-webpack-plugin');
 
@@ -25,7 +20,3 @@ module.export = {
 	]
 
 };
-
-
-
-```
